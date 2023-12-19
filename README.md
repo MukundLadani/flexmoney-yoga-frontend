@@ -4,10 +4,10 @@ This  project is built with frontend in React and is currently hosted on Netlify
 
 It has a backend built with Node and Express, having MongoDB as a Database. 
 
-Backend Repo: https://github.com/MukundLadani/flexmoney-yoga-backend and backend if hosted on onrender.com with the URL https://flexmoney-yoga-backend-b9nz.onrender.com/api/enroll
+Backend Repo: https://github.com/MukundLadani/flexmoney-yoga-backend
 
 # Implementation Details
-In this repo, the React application is committed. I have done basic validation before performing a POST request to the backend, along with proper error handlings.
+In this repo, the React application is committed. I have done basic validation before performing a POST request to the backend, along with proper error handling. For more insights, please refer to the documentation file.
 
 # Getting Started with Create React App
 
@@ -25,8 +25,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
